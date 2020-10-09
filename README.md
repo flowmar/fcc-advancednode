@@ -2,7 +2,11 @@
 
 ## Introduction to Advanced Node and Express Challenges
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-advancednode)](https://repl.it/github/freeCodeCamp/boilerplate-advancednode)
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-advancednode)](https://repl.it/@omarimam512/fcc-advancednode)
+
+[Here is the link to the Repl for my project: https://repl.it/@omarimam512/fcc-advancednode#auth.js](https://repl.it/@omarimam512/fcc-advancednode#auth.js)
+
+---
 
 We will continue on the path of exploring [ExpressJS](http://expressjs.com/) functionality including working with middleware packages in our Express Application.
 
